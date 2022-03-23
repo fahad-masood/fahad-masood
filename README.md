@@ -27,8 +27,8 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahad-masood&show_icons=true&locale=en&layout=compact" alt="fahad-masood" /></p>
 
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fahad-masood&show_icons=true&locale=en" alt="fahad-masood"
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fahad-masood&show_icons=true&locale=en" alt="fahad-masood"/></p>
 
-<p align="right">&nbsp; &nbsp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahad-masood&" alt="fahad-masood" /></p></p>
+<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahad-masood&" alt="fahad-masood" /></p>
 
 
