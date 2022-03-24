@@ -17,8 +17,6 @@
 
 - 📫 Mail me at **fahadmasood03@gmail.com**
 
-- 😄 Pronouns: **He/Him**
-
 - ⚡ Fun fact: **I'm also a singer!**
 
 <h3 align="center">Languages and Tools:</h3>
