@@ -11,7 +11,7 @@
 
 <br>
 
-- 🌱 I’m currently sharpening my skills on **DevOps, Data Structures and Algorithms**
+- 🌱 I’m currently sharpening my skills on **Data Structures and Algorithms**
 
 - 💬 Ask me about **MERN stack**
 
