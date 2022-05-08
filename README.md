@@ -3,11 +3,12 @@
 <br>
 
 <p align="center">
-<a href="https://linkedin.com/in/fahad-masood-61ba281b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahad-masood-61ba281b8" height="30" width="40" /></a>
-<a href="https://instagram.com/_confidant_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_confidant_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/fahadmasood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fahadmasood" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/fahad-masood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fahad-masood" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/fahad_masood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fahad-masood" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fahad-masood-61ba281b8" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahad-masood-61ba281b8" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/fahad-masood" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fahad-masood" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/fahad_masood" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fahad-masood" height="30" width="40" /></a>
+<a href="https://instagram.com/_confidant_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_confidant_" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/fahadmasood" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fahadmasood" height="30" width="40" /></a>
+
 </p> 
 
 <br>
