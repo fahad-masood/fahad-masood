@@ -15,6 +15,8 @@
 
 - 🌱 I’m currently sharpening my skills on **Data Structures and Algorithms**
 
+- 🌱 I’m taking HackerRank 6 star problem-solving challenge.
+
 - 💬 Ask me about **MERN stack**
 
 - 📫 Mail me at **fahadmasood03@gmail.com**
