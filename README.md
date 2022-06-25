@@ -1,5 +1,5 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Fahad Masood </h1>
-<h2 align="center"><i>A Full stack web developer from India</i></h2>
+<h2 align="center"><i>Software Engineer from India</i></h2>
 <br>
 
 <p align="center">
