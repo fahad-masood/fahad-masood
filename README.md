@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-<a href="https://linkedin.com/in/fahad-masood-61ba281b8" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahad-masood-61ba281b8" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fahad--masood" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahad-masood-61ba281b8" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/fahad-masood" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fahad-masood" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/fahad_masood" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fahad-masood" height="30" width="40" /></a>
 <a href="https://instagram.com/_confidant_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_confidant_" height="30" width="40" /></a>
@@ -15,9 +15,9 @@
 
 - 🌱 I’m currently sharpening my skills on **Data Structures and Algorithms**
 
-- 🌱 I’m taking HackerRank 6 star problem-solving challenge.
+- 🌱 I've a 5 star-problem solving badge on HackerRank.
 
-- 💬 Ask me about **MERN stack**
+- 💬 Ask me about **Javascript & React.js**
 
 - 📫 Mail me at **fahadmasood03@gmail.com**
 
