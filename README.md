@@ -13,7 +13,7 @@
 
 <br>
 
-- 🌱 I’m currently revising **React**
+- 🌱 I’m currently making projects on **Vanilla Javascript and React**
 
 - 🌱 I've a 5-star problem solving badge on HackerRank.
 
