@@ -13,7 +13,7 @@
 
 <br>
 
-- 🌱 I’m currently sharpening my skills on **Data Structures and Algorithms**
+- 🌱 I’m currently revising **React**
 
 - 🌱 I've a 5-star problem solving badge on HackerRank.
 
