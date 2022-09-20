@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently making projects on **Vanilla Javascript and React**
 
-- 🌱 I've a 5-star problem solving badge on HackerRank.
+- 🔧 I've a 5-star problem solving badge on HackerRank.
 
 - 💬 Ask me about **Javascript & React.js**
 
