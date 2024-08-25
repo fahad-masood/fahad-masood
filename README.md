@@ -53,7 +53,7 @@
 
 <p align="center">
   While my expertise shines in frontend development, my knowledge extends beyond. 
-  I'm skilled in:
+  I'm also skilled in:
 </p>
 
 <p align="center">
@@ -101,10 +101,6 @@
   <a href="mailto:fahadmasood03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="box-shadow: 2px 2px 8px rgba(0,0,0,0.2);"/></a>
   <a href="https://bento.me/fahad-masood"><img src="https://img.shields.io/badge/Bento-000000?style=for-the-badge&logo=bento&logoColor=white" style="box-shadow: 2px 2px 8px rgba(0,0,0,0.2);"/></a>
 </p>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fahad-masood&color=00FF7F&style=flat-square" alt="Profile views">
