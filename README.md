@@ -60,6 +60,7 @@
   <img src="https://img.shields.io/badge/Node.js-228B22?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/MySQL-4682B4?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MongoDB-32CD32?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/Firebase-FF8C00?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
   <img src="https://img.shields.io/badge/Firestore-FF8C00?style=for-the-badge&logo=firebase&logoColor=black" alt="Firestore"/>
   <img src="https://img.shields.io/badge/Postman-FF4500?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
